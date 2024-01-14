@@ -1,7 +1,7 @@
 <persistence>
     <persistence-unit name="Operaio_details">
 
-        <class>com.example.MySQLmavengenerated.OperaioEntity</class>
+        <class>com.example.MySQLmavengenerated.domain.Operaio</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
